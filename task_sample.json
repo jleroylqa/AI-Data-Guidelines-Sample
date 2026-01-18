@@ -1,0 +1,22 @@
+[
+  {
+    "task_id": "LQA_FR_001",
+    "source_text": "The user interface is intuitive and easy to navigate.",
+    "model_output": "L'interface utilisateur est intuitive et facile à naviguer.",
+    "evaluation": {
+      "rating": "Good",
+      "error_type": "None",
+      "comment": "Grammatically correct and preserves the professional tone."
+    }
+  },
+  {
+    "task_id": "LQA_FR_002",
+    "source_text": "Click the button to submit your application.",
+    "model_output": "Cliquez sur le bouton pour soumettre votre application.",
+    "evaluation": {
+      "rating": "Needs improvement",
+      "error_type": "Terminology",
+      "comment": "In a French software context, 'candidature' or 'formulaire' is preferred over 'application' (anglicism)."
+    }
+  }
+]
